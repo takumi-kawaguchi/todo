@@ -3,3 +3,4 @@ require "yard"
 
 YARD::Rake::YardocTask.new
 task :default => :spec
+
